@@ -1,0 +1,24 @@
+CRUD Operation====>Create Read Update Delete
+Events==>click,....
+
+local storage
+
+RAM ===> volatile storage (data msh btt5zn bater)
+persistent storage===> local storage 5MB (msh bat5zn 8ir data so8ira - msh 7asasa aw tkon safe data  ) (token - language - theme(app dark mode/ white mode))
+
+string==>method / property
+string===> method { return New string but not update}
+1- charAt  [] / at ES2022 [-] ===> axsi 7arf mo3in  [3 , -3] " HELLO" ---> L , E
+2- slice subString
+3- toUpperCase===>batw7d el case (capital) , toLowerCase===>batw7d el case (small)
+4- concat 
+5- trim trimStart trimEnd 
+6- padStart padEnd 
+
+7- repeat 
+8- replace replaceAll 
+9- split
+10- includes indexOf lastIndexOf search 
+- includes==>search string lw contain mnha log true/ false (case senstive (small/capital))
+11- startsWith endsWith
+

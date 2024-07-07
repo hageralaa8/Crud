@@ -1,0 +1,13 @@
+.form-control:focus
+{
+    box-shadow: none;
+}
+.fa-trash:hover
+{
+    animation: fa-shake 2s 1 linear;
+}
+.product-image-container
+{
+    height: 150px;
+    overflow: hidden;/*lw elsora a3la mn 150px maizhrsh   */
+}
